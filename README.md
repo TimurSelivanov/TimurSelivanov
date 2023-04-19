@@ -12,7 +12,7 @@
 
 ---
 
-# Hello and welcome to my profile!
+## Hello and welcome to my profile!
 I am a Java Developer from Moscow, Russia, currently living in Batumi, Georgia.
 
 
