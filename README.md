@@ -15,6 +15,11 @@
 ## Hello and welcome to my profile!
 I am a Java Developer from Moscow, Russia, currently living in Batumi, Georgia.
 
+##Languages and Tools:
+<div id="tools">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
 
 
 <!--
