@@ -1,4 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/timurselivanov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=timurselivanov&style=flat-square&color=blue" alt=""/>
+
+---
+
+# Hello and welcome to my profile!
+I am a Java Developer from Moscow, Russia, currently living in Batumi, Georgia.
+
+
 
 <!--
 **TimurSelivanov/TimurSelivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
