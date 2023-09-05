@@ -18,7 +18,7 @@ I am a Java Developer from Moscow, Russia.
 Here I post projects that helped me to learn and understand the numerous technologies that the world of programming is so rich in.
 
 ## Languages, tools, standards and principles that I use:
-Java, Stream API, Spring Framework (MVC, Data, Security, REST), Spring Boot, Hibernate, PostgreSQL, JDBC, Servlets, JSP, Java EE, JUnit, JSON, OOP, SOLID, REST API, Apache Kafka, Git, Maven, Tomcat, GitHub, Postman, Linux, Windows, IntelliJ IDEA, Jira.
+Java, Stream API, Spring Framework (MVC, Data, Security, REST), Spring Boot, Hibernate, PostgreSQL, JDBC, Servlets, JSP, Java EE, JUnit, JSON, OOP, SOLID, REST API, Apache Kafka, Git, Maven, Tomcat, GitHub, GitLab, Postman, Linux, Windows, IntelliJ IDEA, Jira.
 
 <!--
 **TimurSelivanov/TimurSelivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
